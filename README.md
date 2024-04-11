@@ -1,6 +1,6 @@
 # Effects of Alcohol on Student Performance
 
-## Case Study: The main aim of this project is to predict students academic performance (grades) using a multilinear regression model built on the predictors mentioned based on 2023 student information.
+### Case Study: The main aim of this project is to predict students academic performance (grades) using a multilinear regression model built on the predictors mentioned based on 2023 student information.
 
 ### Data Sources
 
